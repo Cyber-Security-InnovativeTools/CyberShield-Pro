@@ -1,0 +1,9 @@
+flask
+flask-limiter
+flask-cors
+requests
+dnspython
+pandas
+numpy
+matplotlib
+plotly
